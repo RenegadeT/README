@@ -4,4 +4,4 @@ Members' work in NCLab.
 ## Papers
 
 ## Projects
-- [Personae - Deep Learning CNN IMAGE RECOGNIZATION]   
+- [Deep Learning CNN IMAGE RECOGNIZATION]   
